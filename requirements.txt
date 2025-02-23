@@ -1,0 +1,8 @@
+confluent-kafka==2.4.0
+py4j==0.10.9.7
+pyspark==3.5.1
+simplejson==3.19.2
+geohash2
+flask
+flask-cors
+pandas>=1.0.5
