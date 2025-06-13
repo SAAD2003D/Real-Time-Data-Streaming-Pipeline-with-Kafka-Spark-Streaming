@@ -2,7 +2,7 @@
 # Real-Time-Data-Streaming-Pipeline-with-Kafka-Spark-Streaming
 
 ![image](https://github.com/user-attachments/assets/1fdb1065-9953-4d80-a7c3-665dcd727e47)
-![image](https://github.com/user-attachments/assets/1fdb1065-9953-4d80-a7c3-665dcd727e47)
+
 
 This project demonstrates a real-time data streaming pipeline using Kafka for message queuing, Spark Streaming for data processing, and Flask for API serving.  It simulates a motorcycle telemetry system, processing location, motorcycle performance, and weather data to generate real-time insights and alerts.
 
