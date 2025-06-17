@@ -41,8 +41,8 @@ The system is composed of the following key components, orchestrated using Docke
 1.  **Clone the Repository:**
 
     ```bash
-    git clone <your_repository_url>
-    cd <your_repository_directory>
+    git clone https://github.com/SAAD2003D/Real-Time-Data-Streaming-Pipeline-with-Kafka-Spark-Streaming
+    cd https://github.com/SAAD2003D/Real-Time-Data-Streaming-Pipeline-with-Kafka-Spark-Streaming
     ```
 
 2.  **Create topics**
