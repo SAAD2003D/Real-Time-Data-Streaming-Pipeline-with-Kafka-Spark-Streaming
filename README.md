@@ -1,5 +1,9 @@
 
 # Real-Time-Data-Streaming-Pipeline-with-Kafka-Spark-Streaming
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)
+
 
 ![image](https://github.com/user-attachments/assets/1fdb1065-9953-4d80-a7c3-665dcd727e47)
 
